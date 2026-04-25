@@ -17,7 +17,7 @@ RTHK32,http://cdn.163189.xyz/163189/rthk32
 中闻,http://74.91.26.218:82/live/ztxw.m3u8#https://pixman.passwdwork.cc.cd/proxy/e02b3975691e34b3.m3u8#http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou#
 Now新闻,http://cdn.163189.xyz/163189/now
 澳视澳门,https://6.cdn.loc.cc/163189.php?id=asam
-CHC影迷电影,http://111.230.72.38:1234/952383261
+CHC影迷电影,http://111.230.72.38:1234/952383261#http://107.150.60.122/live/chchd.m3u8
 CHC动作电影,http://111.230.72.38:1234/644368714
 CHC家庭电影,http://111.230.72.38:1234/644368373
 珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub#http://cdn2.163189.xyz/163189/gdzj
